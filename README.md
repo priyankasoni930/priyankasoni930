@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Soni</h1>
 <h3 align="center">A Full Stack Developer experienced in the MERN stack and Next.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankasoni930&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasoni930" /> </p>
 
 - 🌱 I’m currently learning **React Native and AI Agents**
 
