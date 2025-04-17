@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Soni</h1>
+<h1 align="center">Hi, I'm Priyanka Soni</h1>
 <h3 align="center">A Full Stack Developer experienced in the MERN stack and Next.js</h3>
 
 
