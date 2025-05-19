@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native and AI Agents**
 
-- 👨‍💻 All of my projects are available at [https://priyanka-steel.vercel.app/](https://priyanka-steel.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://priyanka-soni.vercel.app](https://priyanka-soni.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
