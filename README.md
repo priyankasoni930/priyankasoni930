@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer experienced in the MERN stack and Next.js</h3>
 
 
-- 🌱 I’m currently learning **React Native and AI Agents**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://priyanka-soni.vercel.app](https://priyanka-soni.vercel.app)
 
